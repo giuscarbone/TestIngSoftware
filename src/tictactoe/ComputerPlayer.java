@@ -15,7 +15,7 @@ public class ComputerPlayer extends Player {
     
     /**
      * @brief Costruttore.
-     * @param[in] symbol Simbolo con cui è rappresentato il giocatore;
+     * @param[in] symbol rappresenta Simbolo con cui è rappresentato il giocatore;
      *            deve essere Board.CELL_X oppure Board.CELL_O
      * @param[in] level Livello di difficoltà, compreso tra 0 e MAX_LEVEL.
      */
