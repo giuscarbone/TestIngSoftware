@@ -7,7 +7,7 @@ public class Game {
     private Player player[];
     private Board board;
     private UserInterface userInterface;
-    // prova di commit
+    // peppino peppino peppino
     /**
      * @brief Costruttore.
      * @param[in] userInterface La user interface.
